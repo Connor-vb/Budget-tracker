@@ -8,10 +8,11 @@ This is a PWA application that allows the user to track their budget
 Connor-vb
 
 ## Dependencies
-inquirer
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
 
-## Contributions
-N/A
 
 ## Deployed Links
 
